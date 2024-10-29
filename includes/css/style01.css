@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'jtpp-share-buttons';
+  src:  url('../fonts/jtpp-share-buttons.eot?fpha98');
+  src:  url('../fonts/jtpp-share-buttons.eot?fpha98#iefix') format('embedded-opentype'),
+    url('../fonts/jtpp-share-buttons.ttf?fpha98') format('truetype'),
+    url('../fonts/jtpp-share-buttons.woff?fpha98') format('woff'),
+    url('../fonts/jtpp-share-buttons.svg?fpha98#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.jtpp-share-buttons {
+    margin: 20px 0!important;
+    padding: 0!important;
+}
+.jtpp-share-buttons ul {
+    display: table!important;
+    width: 100%!important;
+    margin: 0!important;
+    padding: 0!important;
+    table-layout: fixed!important;
+    text-align: center!important;
+}
+.jtpp-share-buttons ul li {
+    display: table-cell!important;
+    list-style-type: none!important;
+    line-height: 40px!important;
+    vertical-align: baseline!important;
+    padding: 0 8px 0 0!important;
+    font-family: Arial, Roboto, "Droid Sans", sans-serif!important;
+    font-size: 14px!important;
+    text-align: center!important;
+}
+.jtpp-share-buttons ul li:last-of-type {
+    padding: 0!important;
+}
+.jtpp-share-buttons ul li i {
+    line-height: 1!important;
+    padding: 0 4px 0 0!important;
+    font-family: "jtpp-share-buttons"!important;
+    font-style: normal!important;
+    font-weight: normal!important;
+}
+.jtpp-share-buttons ul li a {
+    display: block!important;
+    margin: 0!important;
+    padding: 0!important;
+    color: #FFF!important;
+    text-decoration: none!important;
+    border-radius: 3px!important;
+}
+.jtpp-share-buttons ul li a:hover {
+    opacity: 0.6!important;
+}
+.jtpp-share-buttons ul li a:before,
+.jtpp-share-buttons ul li a:after {
+    content: ""!important;
+}
+.jtpp-share-buttons ul li.twitter a {
+    background: #55ACEE!important;
+}
+.jtpp-share-buttons ul li.twitter i:before {
+    content: "\ea96"!important;
+    position: relative!important;
+    font-size: 0.96em!important;
+}
+.jtpp-share-buttons ul li.facebook a {
+    background: #315096!important;
+}
+.jtpp-share-buttons ul li.facebook i:before {
+    content: "\ea90"!important;
+    position: relative!important;
+    font-size: 0.9em!important;
+}
+.jtpp-share-buttons ul li.google a {
+    background: #DD4B39!important;
+}
+.jtpp-share-buttons ul li.google i:before {
+    content: "\ea8b"!important;
+    position: relative!important;
+    top: 0.1em;
+    font-size: 1.2em!important;
+}
+.jtpp-share-buttons ul li.hatena a {
+    background: #008FDE!important;
+}
+.jtpp-share-buttons ul li.hatena i:before {
+    content: "\e900"!important;
+    position: relative!important;
+    top: 0.05em!important;
+}
+.jtpp-share-buttons ul li.line a {
+    background: #00C300!important;
+}
+.jtpp-share-buttons ul li.line i:before {
+    content: "\e902"!important;
+}
+@media only screen and (max-width: 800px) {
+    .jtpp-share-buttons ul li {
+        line-height: 30px!important;
+    }
+    .jtpp-share-buttons ul li i {
+        padding: 0!important;
+    }
+    .jtpp-share-buttons ul li span {
+        display: none!important;
+    }
+}

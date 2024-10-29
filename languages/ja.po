@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JTPP Share Buttons\n"
+"POT-Creation-Date: 2016-11-28 21:55+0900\n"
+"PO-Revision-Date: 2016-11-28 21:55+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: jtpp-share-buttons.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: includes/plugin-page.php:15 includes/plugin-page.php:70
+msgid "JTPP Share Buttons"
+msgstr "JTPPシェアボタン"
+
+#: includes/plugin-page.php:38 includes/plugin-page.php:41
+msgid "Please select the item of \"Single posts\"."
+msgstr "「個別投稿」の項目を選択してください。"
+
+#: includes/plugin-page.php:44 includes/plugin-page.php:47
+msgid "Please select the item of \"Single pages\"."
+msgstr "「個別投稿ページ」の項目を選択してください。"
+
+#: includes/plugin-page.php:50
+msgid "Please select the item of \"Design\"."
+msgstr "「デザイン」の項目を選択してください。"
+
+#: includes/plugin-page.php:56
+msgid "Your settings have been saved."
+msgstr "設定を保存しました。"
+
+#: includes/plugin-page.php:71
+msgid "Show Share-buttons easily."
+msgstr "簡単に共有ボタンを表示します。"
+
+#: includes/plugin-page.php:97
+msgid "Single posts"
+msgstr "個別投稿"
+
+#: includes/plugin-page.php:99
+msgid "Please select \"Show\" or \"Hide\" about share-buttons in single posts."
+msgstr "個別投稿について「表示する」か「表示しない」を選択してください。"
+
+#: includes/plugin-page.php:101 includes/plugin-page.php:117
+msgid "Before the content"
+msgstr "本文の前"
+
+#: includes/plugin-page.php:102 includes/plugin-page.php:108
+msgid "Default is \"Show\"."
+msgstr "デフォルトは「表示する」です。"
+
+#: includes/plugin-page.php:104 includes/plugin-page.php:110
+#: includes/plugin-page.php:120 includes/plugin-page.php:126
+msgid "Show"
+msgstr "表示する"
+
+#: includes/plugin-page.php:105 includes/plugin-page.php:111
+#: includes/plugin-page.php:121 includes/plugin-page.php:127
+msgid "Hide"
+msgstr "表示しない"
+
+#: includes/plugin-page.php:107 includes/plugin-page.php:123
+msgid "After the content"
+msgstr "本文の後"
+
+#: includes/plugin-page.php:113
+msgid "Single pages"
+msgstr "個別投稿ページ"
+
+#: includes/plugin-page.php:115
+msgid "Please select \"Show\" or \"Hide\" about share-buttons in single pages."
+msgstr "個別投稿ページについて「表示する」か「表示しない」を選択してください。"
+
+#: includes/plugin-page.php:118 includes/plugin-page.php:124
+msgid "Default is \"Hide\"."
+msgstr "デフォルトは「表示しない」です。"
+
+#: includes/plugin-page.php:129
+msgid "Design"
+msgstr "デザイン"
+
+#: includes/plugin-page.php:131
+msgid "Please select share-buttons' design."
+msgstr "共有ボタンのデザインを選択してください。"
+
+#: includes/plugin-page.php:135
+msgid "01"
+msgstr "01"
+
+#: includes/plugin-page.php:136
+msgid "02"
+msgstr "02"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/jtpp-share-buttons/"
+msgstr "https://ja.wordpress.org/plugins/jtpp-share-buttons/"
+
+#. Description of the plugin/theme
+msgid ""
+"You can display share-buttons at all of single posts and single pages very "
+"easily."
+msgstr ""
+"非常に簡単にすべての個別投稿と個別投稿ページに共有ボタンを表示できます。"
+
+#. Author of the plugin/theme
+msgid "aki-t"
+msgstr "aki-t"
+
+#. Author URI of the plugin/theme
+msgid "https://jtpp.org/"
+msgstr "https://jtpp.org/"
